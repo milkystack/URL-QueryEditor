@@ -31,4 +31,6 @@ tbody:nth-child(2n+1), tbody:nth-child(2n+1) textarea {
 textarea {
     width: 100%;
     border: solid 1px #748ca58a;
+    border-radius: 0;
+    outline: none;
 }
